@@ -3,6 +3,7 @@ import styled from 'styled-components'
 const HeaderDiv = styled.header`
   width: 100%;
   height: 50px;
+  margin-bottom: 50px;
 `
 
 const PageTitleBox = styled.div`
